@@ -100,8 +100,8 @@ public class Ball {
 		} else if (path.size() >= 2) {
 			//((destination router) - (source router))/weights for slope.
 			if (x < routerXpoints.get(path.get(1))) {
-				double dx = (routerXpoints.get(path.get(1)) - routerXpoints.get(path.get(0))) / 50;
-				double dy = (routerYpoints.get(path.get(1)) - routerYpoints.get(path.get(0))) / 50;
+				double dx = (routerXpoints.get(path.get(1)) - routerXpoints.get(path.get(0))) / 20;
+				double dy = (routerYpoints.get(path.get(1)) - routerYpoints.get(path.get(0))) / 20;
 				x += dx;
 				y += dy;
 			} else {
