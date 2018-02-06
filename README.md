@@ -1,5 +1,6 @@
 # Animation
 An anmimated system that simulates and illustrates some of the imprtant protocols of TCP/IP- based computer networks.
+![Animation](/readmeImage/image1.png)
 
 ## Layers
 * Physical layer provides encoding and decoding processes
