@@ -1,5 +1,5 @@
 # Animation
-An anmimated system that simulates and illustrates some of the imprtant protocols of TCP/IP- based computer networks.
+An animated system that simulates and illustrates some of the important protocols of TCP/IP- based computer networks.
 ![Animation](/readmeImage/image1.png)
 
 ## Layers
@@ -10,7 +10,7 @@ An anmimated system that simulates and illustrates some of the imprtant protocol
 ## Routing
 * Demonstrates the path pf data (red, and blue bubble).
 
-* Transmission from application layer of the sending host to the application layer of the revicer host.
+* Transmission from application layer of the sending host to the application layer of the receiver host.
   1. Random generator used for link's weight.
   2. Dijkstra algorithm used for routing.
  
@@ -25,5 +25,5 @@ Application starts
 Application pause
 * Detail
 
-Layer informtion for each ball
+Layer information for each ball
   
